@@ -1,0 +1,42 @@
+html{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+#homeBody {
+    background-image: url(./Images/leaves.jpg);
+    background-size:cover;
+    margin: 5%;
+    text-align: center;
+}
+
+#cvBody {
+    background-image: url(./Images/cv-backround.jpg);
+    background-size: cover;
+    margin: 10%;
+}
+
+.projectImage {
+    border: solid #E5F9DB;
+    border-radius: 10px;
+}
+
+.portofolioLinks {
+    text-decoration: none;
+    color: #83764F 
+}
+#cvProject {
+    float:left;
+    padding-right: 10%;
+}
+#project2 {
+    float:left;
+    padding-right: 10%;
+}
+#project3 {
+    float:left;
+    padding-right: 10%;
+}
+
+footer {
+    text-align:center;
+}
