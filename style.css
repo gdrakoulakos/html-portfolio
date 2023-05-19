@@ -1,0 +1,11 @@
+html{
+    background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-business-resume-background-material-picture-image_999584.jpg);
+    background-size: cover; 
+    font-family: 'Libre Franklin', sans-serif;
+}
+div {
+    margin: 10%;
+}
+footer {
+    text-align: center;
+}
